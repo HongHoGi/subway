@@ -157,7 +157,7 @@ top:-26px; right:0;
 #main .subwaymenu .content { padding:30px 50px; }
 #main .subwaymenu .content ul { overflow:hidden; }
 #main .subwaymenu .content li {
-    width:25%; float:left; padding:20px 0;
+    width:25%; float:left; padding:20px 15px;
     text-align:center;
     position:relative;
     /* overflow:hidden; */
@@ -182,7 +182,7 @@ top:-26px; right:0;
     display:block;
 }
 #main .subwaymenu .content li:hover img {
-    transform:scale(1.2);
+    transform:scale(1.25);
 }
 #main .subwaymenu .content li:hover strong {
     display:inline-block;
